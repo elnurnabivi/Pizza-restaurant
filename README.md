@@ -1,6 +1,6 @@
 # Pizza Ordering Website
 
-You can see the project live
+You can see the project live https://elnurnabivi.github.io/Pizza-restaurant/
 
 ## Introduction
 
